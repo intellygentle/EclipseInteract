@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksalmon_app=self.webpackChunksalmon_app||[]).push([[827],{53827:(s,a,p)=>{p.r(a),p.d(a,{default:()=>e});const e={}}}]);
