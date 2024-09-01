@@ -1,6 +1,7 @@
 # Eclipse Testnet Interaction
 ## Add salmon wallet extension
 Go to https://github.com/Eclipse-Laboratories-Inc/eclipse-wallet/releases/tag/v0.4.2-alpha and download the build-extension_v0.4.2-alpha.zip file
+
 <img width="472" alt="ext" src="https://github.com/user-attachments/assets/2564d165-20e9-43e5-ad85-bc84477b3b29">
 
 Extract the extension zip folder
