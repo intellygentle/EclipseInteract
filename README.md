@@ -20,7 +20,8 @@ https://github.com/user-attachments/assets/b41a3125-2bec-445f-a653-982d44f3732b
 
 
 Open the wallet and import your seedphrase from the previous nftMint task if you did
-Select testnet from the network dropdown
+
+Select testnet from the network dropdown. It will show you testnet eth balance 
 
 <img width="326" alt="Testn" src="https://github.com/user-attachments/assets/564aab54-c19c-4cff-a739-578e6164eff4">
 
