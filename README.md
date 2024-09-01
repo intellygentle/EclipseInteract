@@ -32,12 +32,16 @@ If you did not do the previous task, go to https://hkey0.github.io/EclipseBridge
 
 <img width="700" alt="bridge" src="https://github.com/user-attachments/assets/55b95fa7-c06e-4e02-9496-440c847ed770">
 
-If you are clueless about how to get sepoliaEth, Ai is your companion. You can use tombot; one being developed by a friend
+If you are clueless about how to get sepoliaEth, Ai is your companion. You can use tombot; one being developed by a friend of mine.
 I will be glad to receive feedback on it. So you are free to DM and tell me whatever you feel about it.
 
 ![image](https://github.com/user-attachments/assets/f845cdd3-458f-48b7-b32f-f7937d262ca7)
 
 Here is the link to download https://play.google.com/store/apps/details?id=com.sbc.tombot
+
+So, your Salmon wallet should look like this after all the previous steps
+
+<img width="278" alt="wallt" src="https://github.com/user-attachments/assets/1c64661a-788e-4b1f-8e97-4ac9318a82fb">
 
 
 
