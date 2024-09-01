@@ -62,7 +62,12 @@ Select a token pair and click "Add Liquidity":
 ![image](https://github.com/user-attachments/assets/838729f8-5477-497e-877e-cfcc569858e9)
 
 
+## That is all for now
+join eclipse discord and secure these roles https://discord.gg/SZXbExHY
 
+<img width="901" alt="image" src="https://github.com/user-attachments/assets/d4bb3c73-f77b-425a-8214-9b2b1b4356f7">
+
+# WAGMI
 
 
 
