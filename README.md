@@ -53,6 +53,16 @@ Click Devnet and select "Testnet" from the dropdown, then click "Faucet" to get 
 
 <img width="732" alt="ch" src="https://github.com/user-attachments/assets/1195d700-abe0-4eaf-b983-468007918f38">
 
+Open the "Pool" tab and click "Add position":
+
+<img width="577" alt="pool" src="https://github.com/user-attachments/assets/d2400e08-3c7c-40cd-82db-f873e228bebc">
+
+Select a token pair and click "Add Liquidity":
+
+![image](https://github.com/user-attachments/assets/838729f8-5477-497e-877e-cfcc569858e9)
+
+
+
 
 
 
