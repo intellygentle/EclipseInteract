@@ -43,6 +43,21 @@ So, your Salmon wallet should look like this after all the previous steps
 
 <img width="278" alt="wallt" src="https://github.com/user-attachments/assets/1c64661a-788e-4b1f-8e97-4ac9318a82fb">
 
+## Interactions Start
+
+Go to https://eclipse.invariant.app/swap and connect your wallet
+
+![image](https://github.com/user-attachments/assets/feb646c3-f993-4bc4-bacb-2a4bc8263823)
+
+Click Devnet and select "Testnet" from the dropdown, then click "Faucet" to get the test tokens. Next, select tokens to swap and click "Swap tokens":
+
+<img width="732" alt="ch" src="https://github.com/user-attachments/assets/1195d700-abe0-4eaf-b983-468007918f38">
+
+
+
+
+
+
 
 
 
