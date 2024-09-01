@@ -21,9 +21,29 @@ https://github.com/user-attachments/assets/b41a3125-2bec-445f-a653-982d44f3732b
 
 Open the wallet and import your seedphrase from the previous nftMint task if you did
 
+
+
 Select testnet from the network dropdown. It will show you testnet eth balance 
 
 <img width="326" alt="Testn" src="https://github.com/user-attachments/assets/564aab54-c19c-4cff-a739-578e6164eff4">
+
+
+If you did not do the previous task, go to https://hkey0.github.io/EclipseBridge/testnet/ and bridge sepoia eth to eclipse testnet.
+
+<img width="700" alt="bridge" src="https://github.com/user-attachments/assets/55b95fa7-c06e-4e02-9496-440c847ed770">
+
+If you are clueless about how to get sepoliaEth, Ai is your companion. You can use tombot; one being developed by a friend
+I will be glad to receive feedback on it. So you are free to DM and tell me whatever you feel about it.
+
+![image](https://github.com/user-attachments/assets/f845cdd3-458f-48b7-b32f-f7937d262ca7)
+
+Here is the link to download https://play.google.com/store/apps/details?id=com.sbc.tombot
+
+
+
+
+
+
 
 
 
