@@ -16,4 +16,10 @@ Now drag the extracted folder into the "Manage Extension" page
 
 
 
+https://github.com/user-attachments/assets/b41a3125-2bec-445f-a653-982d44f3732b
+
+
+
+
+
 
